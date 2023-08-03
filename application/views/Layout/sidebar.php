@@ -5,7 +5,7 @@
 		<div class="sidebar-brand-icon rotate-n-15">
 			<i class="fas fa-laugh-wink"></i>
 		</div>
-		<div class="sidebar-brand-text mx-3">Modulo Contabilidad</div>
+		<div class="sidebar-brand-text mx-3">Sujetos Excluidos</div>
 	</a>
 	<!-- Divider -->
 	<hr class="sidebar-divider my-0">
